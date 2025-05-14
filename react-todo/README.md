@@ -18,8 +18,8 @@ This is the upgraded version of the Todo List App, built using **React**
 1. Clone and switch to this branch:
 
 ```
-git clone https://github.com/Vortex105/Todo-list.git
-cd Todo-list
+git clone https://github.com/Vortex105/To-do-list.git
+cd To-do-list
 git checkout react-todo
 
 ```
